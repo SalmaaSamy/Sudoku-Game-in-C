@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697461416 source:e:\self study\embedded track\mohamed abd elbasit\0- projects\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"headers.h"
+
+1697215329 e:\self study\embedded track\mohamed abd elbasit\0- projects\sudoku\headers.h
+
